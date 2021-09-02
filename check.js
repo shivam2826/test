@@ -1,5 +1,5 @@
-const test =(a)=>{
-    console.log (a)
+const test =(a,b)=>{
+    console.log (a+b)
 };
 
-test(5);
+test(5,6);
